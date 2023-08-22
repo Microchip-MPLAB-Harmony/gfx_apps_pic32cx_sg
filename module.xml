@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<Module name="PIC32CX SG41/61 Family Graphics Applications Package" id="7F67F17A-8C66-4CFD-AC10-BDBA8891E1EA" version="3.0.0" type="gfx_apps_pic32cx_sg">
+    <ArchRoot path="arch"/>
+</Module>
