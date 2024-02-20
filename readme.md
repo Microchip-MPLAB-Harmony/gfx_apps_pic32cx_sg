@@ -20,7 +20,7 @@ For more information on the tools, libraries and basic development with the MPLA
  - [Release Notes](./release_notes.md)
  - [MPLAB® Harmony License](./mplab_harmony_license.md)
  - [MPLAB® Harmony 3 Graphics User Guides Wiki](https://github.com/mchpgfx/legato.docs/wiki)
- - [MPLAB® Harmony 3 Graphics API Help](https://mchpgfx.github.io/legato.docs/html/index.html)
+ - [MPLAB® Harmony 3 Graphics API Help](https://mchpgfx.github.io/legato.images/index.html)
  - [MPLAB® Harmony 3 Graphics Videos](https://www.youtube.com/playlist?list=PL9B4edd-p2ag5xsIIHhja-caKYY7AKPxe)
  - [MPLAB® Harmony 3 Graphics Suite Documentation](https://microchip-mplab-harmony.github.io/gfx/documentation.html)
 
@@ -40,10 +40,10 @@ The following applications are provided to demonstrate a subset of the capabilit
 
 | Category | Item | Description | Release Type |
 | --- | --- | ---- |---- |
-|  apps | [blank_quickstart](./apps/blank_quickstart/readme.md) | Legato Blank Quickstart Examples | ![app-beta](https://img.shields.io/badge/application-beta-orange?style=plastic) |
-|  apps | [legato_adventure](./apps/legato_adventure/readme.md) | Legato Graphics Library Quickstart Examples | ![app-beta](https://img.shields.io/badge/application-beta-orange?style=plastic) |
-|  apps | [legato_ext_res](./apps/legato_ext_res/readme.md) | Legato Graphics Library External Resources Examples | ![app-beta](https://img.shields.io/badge/application-beta-orange?style=plastic) |
-|  apps | [legato_quickstart](./apps/legato_quickstart/readme.md) | Legato Graphics Library Quickstart Examples | ![app-beta](https://img.shields.io/badge/application-beta-orange?style=plastic) |
+|  apps | [blank_quickstart](./apps/blank_quickstart/readme.md) | Libary-less Quickstart Example | ![app-beta](https://img.shields.io/badge/application-beta-orange?style=plastic) |
+|  apps | [legato_adventure](./apps/legato_adventure/readme.md) | Legato Graphics Library Quickstart Example | ![app-beta](https://img.shields.io/badge/application-beta-orange?style=plastic) |
+|  apps | [legato_ext_res](./apps/legato_ext_res/readme.md) | Legato Graphics Library External Resources Example | ![app-beta](https://img.shields.io/badge/application-beta-orange?style=plastic) |
+|  apps | [legato_quickstart](./apps/legato_quickstart/readme.md) | Legato Graphics Library Quickstart Example | ![app-beta](https://img.shields.io/badge/application-beta-orange?style=plastic) |
 
 ____
 

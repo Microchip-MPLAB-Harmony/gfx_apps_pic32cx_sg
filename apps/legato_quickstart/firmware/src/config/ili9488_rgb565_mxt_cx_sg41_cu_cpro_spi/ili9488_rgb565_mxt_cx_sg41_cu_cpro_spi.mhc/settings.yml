@@ -1,0 +1,14 @@
+format_version: v1.0
+configName: ili9488_rgb565_mxt_cx_sg41_cu_cpro_spi
+folderName: legato_qs_cx_sg41_cu_mxt_cpro_spi
+frameworkPath: C:\harmony3_dev
+processor: PIC32CX1025SG41128
+projectName: legato_qs_cx_sg41_cu_mxt_cpro_spi
+settings:
+  PackageFilter: ''
+  FORCE_OPTIMIZATION: 'false'
+  GENERATE_BACKUP: 'true'
+  TRUSTZONE: 'false'
+  CMSISPath: dev_packs\arm\CMSIS\5.8.0
+  MERGE_STRATEGY: USER_ALL
+  DFPPath: dev_packs\Microchip\PIC32CX-SG41_DFP\1.1.122\atdf\PIC32CX1025SG41128.atdf

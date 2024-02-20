@@ -14,6 +14,7 @@
 **/*.IAR/settings
 **/*.IAR/*.dep
 **/*.IAR/*.custom_argvars
+Gem*
 /apps/blank_quickstart/firmware/blank_qs_mzda_extddr_sk_meb2_wqvga_freertos.X/build/
 /apps/blank_quickstart/firmware/blank_qs_mzda_extddr_sk_meb2_wqvga_freertos.X/dist/
 /apps/blank_quickstart/firmware/blank_qs_mzda_intddr_sk_meb2_wqvga.X/build/
